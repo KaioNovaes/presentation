@@ -1,0 +1,9 @@
+.main-banner {
+    display: block;
+    background-image: url(../../assets/img/banner.png);
+    width: 1440px;
+    height: 802px;
+    left: 0px;
+    top: 80px;
+    
+}
