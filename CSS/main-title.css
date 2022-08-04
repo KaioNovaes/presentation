@@ -1,0 +1,19 @@
+.main-title {
+    display: inline-block;
+    background-color: #3A4042;
+    box-shadow: 7px 7px 0px #000;
+    color: #fff;
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: 'Press Start 2P';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 40px;
+}
+h2 {
+    margin-top: 50px;
+    padding-left: 90px;
+}
