@@ -1,6 +1,5 @@
-.main-title {
+h2 {
     display: inline-block;
-
     color: #fff;
     margin-top: 60px;
 
@@ -9,6 +8,5 @@
     font-size: 30px;
 
     line-height: 40px;
-
 
 }
