@@ -14,3 +14,8 @@
 .main-button:hover {
     transform: scale(1.08);
 }
+.main-button.-second {
+    margin-top: 15px;
+    margin-left: 30px;
+    box-shadow: 2px 2px 0px #7D7D7D;
+}

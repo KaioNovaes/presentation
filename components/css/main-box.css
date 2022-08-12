@@ -2,8 +2,10 @@
     background-color: #3A4042;
     width: 630px;
     height: 184px;
-    box-shadow: 7px 7px 0px;
-    margin-top: 50px;
-    padding-top: 20px;
+    box-shadow: 4px 4px 0px #fff;
+    border-radius: 5px;
+    
+    
     padding-left: 35px;
+    
 }
