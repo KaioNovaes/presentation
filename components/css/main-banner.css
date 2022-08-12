@@ -4,4 +4,19 @@
     background-size: 100%;
     height: 800px;
     border-bottom: 10px solid #fff;
+
+}
+
+.main-banner .main-box {
+    margin-top: 40px;
+}
+
+.main-banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+}
+.main-banner .navigation {
+    display: flex;
+    justify-content: right;
 }
