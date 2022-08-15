@@ -1,9 +1,6 @@
 .bottom-section  {
-    display: flex;
     background-color: #C4C4C4;
-    
-}
-.bottom-section .main-title {
-    color: #3A4042;
-    
+    box-sizing: border-box;
+    height: 761px;
+
 }
