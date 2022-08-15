@@ -1,11 +1,13 @@
 .main-box {
     display: inline-block;
     background-color: #3A4042;
-    width: 630px;
-    height: 184px;
+    width: 490px;
+    height: 174px;
     box-shadow: 4px 4px 0px #fff;
     border-radius: 5px;
-    padding-left: 35px; 
+    padding-left: 25px; 
+    padding-right: 25px; 
+
 }
 
 .main-box .main-title {
@@ -15,5 +17,5 @@
 
 .main-box .main-subtitle {
     margin-left: 40px;
-    padding-bottom: 10px;
+    
 }

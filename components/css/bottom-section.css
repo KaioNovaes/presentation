@@ -1,6 +1,9 @@
 .bottom-section  {
     background-color: #C4C4C4;
-    box-sizing: border-box;
-    height: 761px;
+    background-size: 100%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    height:  761px;
+    
 
 }
