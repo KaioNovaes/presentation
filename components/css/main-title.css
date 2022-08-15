@@ -6,3 +6,11 @@
     line-height: 40px;
 
 }
+.main-title.-second {
+    margin: 0px;
+    color: #3A4042;
+    text-shadow: none;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 40px;
+}
