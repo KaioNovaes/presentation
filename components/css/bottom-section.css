@@ -7,3 +7,12 @@
     border-bottom: 7px solid #fff;
 
 }
+.bottom-section.-second {
+    background-image: url(../../assets/img/banner-projects.png);
+    background-repeat: no-repeat ;
+    background-size: 100%;
+    box-sizing: border-box;
+	height: 360px;
+    
+    border-bottom: 7px solid #fff;
+}
