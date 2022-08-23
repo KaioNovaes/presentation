@@ -1,10 +1,10 @@
 .main-banner {
-    
+    box-sizing: border-box;
     background-image: url(../../assets/img/banner.png);
     background-repeat: no-repeat ;
     background-size: 100%;
-    height: 750px;
-    border-bottom: 10px solid #fff;
+    height: 613px;
+    border-bottom: 7px solid #fff;
 
 }
 .main-banner .main-box {
