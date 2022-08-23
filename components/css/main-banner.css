@@ -1,9 +1,9 @@
 .main-banner {
-    box-sizing: border-box;
+    
     background-image: url(../../assets/img/banner.png);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat ;
     background-size: 100%;
-    height: 761px;
+    height: 750px;
     border-bottom: 10px solid #fff;
 
 }
