@@ -1,0 +1,15 @@
+.main-text {
+    display: flex;
+    text-align: center;
+    
+    font-family: 'Fira Code';
+    color: #3A4042;
+    font-weight: 100;
+    line-height: 45px;
+    font-size: 30px;
+
+    padding-left: 95px;
+    padding-right: 95px;
+    margin-top: 70px;
+
+}
