@@ -1,0 +1,12 @@
+.main-education {
+    display: flex;
+    font-family: 'Fira Code';
+    color: #3A4042;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 5px;
+    
+    text-align: center;
+    flex-direction: column;
+
+}
