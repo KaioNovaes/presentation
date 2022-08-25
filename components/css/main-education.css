@@ -3,11 +3,15 @@
     font-family: 'Fira Code';
     color: #3A4042;
     font-weight: 400;
-    font-size: 23px;
-    line-height: 5px;
+    font-size: 20px;
+    line-height: 23px;
     
     text-align: center;
     flex-direction: column;
 
-    
+}
+.main-education.-second {
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 5px;
 }
