@@ -5,6 +5,7 @@
     justify-content: center;
 
     margin-top: 70px;
+    cursor: help;
     
 }
 [data-title]:after {
@@ -20,6 +21,7 @@
     justify-content: center;
 
     margin-top: 10px;
+    
 }
 [data-title]:hover:after {
     opacity: 1;
