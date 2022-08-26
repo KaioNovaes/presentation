@@ -10,22 +10,4 @@
     padding: 2px;
     width: 230px;
 }
-[data-title]:after {
-    content: attr(data-title);
-    visibility: hidden;
-    padding: 3px ;
-    box-shadow: inset 0 0 1em #3A4042;
-    border-radius: 10px ;
-    color:  #000; 
-    font-family: 'Fira Code';
-    font-size: 15px;
-    display: flex;
-    justify-content: center;
-    
-    
-}
-[data-title]:hover:after {
-    opacity: 1;
-    visibility: visible;
-    
-}
+

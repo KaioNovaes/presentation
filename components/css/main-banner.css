@@ -16,8 +16,9 @@
 .main-banner .wrapper {
     display: flex;
     flex-direction: column;
-    width: 500px;
-    margin-left: 15px;
+    width: 430px;
+    margin-left: 35px;
+    
 
 }
 .main-banner .navigation {

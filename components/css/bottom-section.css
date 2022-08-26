@@ -1,5 +1,5 @@
 .bottom-section  {
-    background-color: #C4C4C4;
+    background-color: #DCDCDC;
 
     padding-top: 30px;
     padding-bottom: 10px;
@@ -7,7 +7,7 @@
     border-bottom: 7px solid #fff;
 
 }
-.bottom-section.-second {
+.bottom-section.bgImg {
     background-image: url(../../assets/img/banner-projects.png);
     background-repeat: no-repeat ;
     background-size: cover;

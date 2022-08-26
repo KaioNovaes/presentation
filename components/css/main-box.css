@@ -1,17 +1,17 @@
 .main-box {
-    display: inline-block;
-    background-color: #3A4042;
-    width: 490px;
+    display: block;
+    background-color: #DCDCDC;
+    width: 435px;
     height: 174px;
-    box-shadow: 2px 2px 0px #fff;
+    box-shadow: 3px 3px 0px #fff;
     border-radius: 5px;
     padding-left: 20px;
-    padding-right: 20px;
+    
 
 }
 
 .main-box .main-title {
-    padding-top: 10px;
+   
     padding-bottom: 10px;
 }
 

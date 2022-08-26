@@ -1,14 +1,14 @@
 .main-title {
-    color: #fff;
-    font-family: 'Press Start 2P';
+
+    color: #3A4042;
+    font-family: 'Fira Code';
     font-weight: 400;
-    font-size: 25px;
+    font-size: 35px;
     line-height: 40px;
 
 }
 .main-title.-second {
-    margin: 0px;
-    color: #3A4042;
+    font-family: 'Press Start 2P';
     text-shadow: none;
     text-align: center;
     margin-top: 10px;
