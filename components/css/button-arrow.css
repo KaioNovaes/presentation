@@ -1,10 +1,10 @@
 .button-arrow {
     width: 50px;
     height: 50px;
-    background-color: #DEB887;
     cursor: pointer;
-    box-shadow: 3px 3px 5px #3A4042;
+    background-color: #DEB887;
     border-radius: 5px;
+    box-shadow: 3px 3px 5px #3A4042;  
 }
 .button-arrow .content {
     display: none;
