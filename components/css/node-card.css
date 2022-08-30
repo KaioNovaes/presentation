@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     position: relative;
-    margin: 10px;
+
 }
 .node-card::before {
     content: '';
@@ -14,7 +14,6 @@
     border: 2.5px dashed #3A4042;
     transform: rotate(90deg) translateX(-50%);
     bottom: 140px;
-    
 }
 .node-card .main-title {
     font-weight: 800;
