@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     position: relative;
-    margin: 5px;
+    margin: 10px;
 }
 .node-card::before {
     content: '';
@@ -12,7 +12,7 @@
     height: 0px;
     width: 35px;
     border: 2.5px dashed #3A4042;
-    transform: rotate(90deg) translateX(-67%);
+    transform: rotate(90deg) translateX(-50%);
     bottom: 140px;
     
 }
@@ -26,9 +26,10 @@
     display: flex;
     align-items: center;
     height: 140px;
+    border-radius: 5px;
     border: 3px solid #3A4042;
-    border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    backdrop-filter: blur(2px)
+    font-weight: 100;
+    padding-left: 2px;
+    padding-right: 2px;
+    backdrop-filter: blur(5px)
 }
