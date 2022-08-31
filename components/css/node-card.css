@@ -3,7 +3,8 @@
     flex-direction: column;
     align-items: center;
     position: relative;
-
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .node-card::before {
     content: '';
@@ -30,5 +31,5 @@
     font-weight: 100;
     padding-left: 2px;
     padding-right: 2px;
-    backdrop-filter: blur(5px)
+    backdrop-filter: blur(5px);
 }

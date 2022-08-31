@@ -4,7 +4,7 @@
     position: relative;
     padding-left: 80px;
     padding-right: 80px;
-    
+    overflow: hidden;
 }
 .main-carousel::after {
     content: '';
@@ -23,9 +23,7 @@
     top: 36px;
     display: block;
     border: 2px dashed #3A4042;
-    
     width: 100%;
-    
 }
 
 .main-carousel .button-arrow {
@@ -40,8 +38,11 @@
     right: 2px;
 }
 .main-carousel .items {
+    width: 100%; 
+    overflow: hidden;
+}
+.main-carousel .elements {
     display: flex;
     justify-content: space-between;
-    width: 100%;
-    
+    transform: translateX(0%);
 }
