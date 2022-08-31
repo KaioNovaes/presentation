@@ -2,8 +2,9 @@
     display: flex;
     justify-content: space-evenly;
     position: relative;
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 80px;
+    padding-right: 80px;
+    
 }
 .main-carousel::after {
     content: '';
@@ -37,4 +38,10 @@
 }
 .main-carousel .button-arrow.-right {
     right: 2px;
+}
+.main-carousel .items {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
 }
