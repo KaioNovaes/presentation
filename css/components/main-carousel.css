@@ -1,10 +1,10 @@
 .main-carousel {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     position: relative;
     padding-left: 80px;
     padding-right: 80px;
-    overflow: hidden;
+    
 }
 .main-carousel::after {
     content: '';
@@ -44,5 +44,6 @@
 .main-carousel .elements {
     display: flex;
     justify-content: space-between;
-    transform: translateX(0%);
+    transition: transform 100ms linear;
+    margin-left: -70px;
 }
