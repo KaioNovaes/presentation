@@ -4,7 +4,6 @@
     position: relative;
     padding-left: 80px;
     padding-right: 80px;
-    
 }
 .main-carousel::after {
     content: '';
@@ -25,7 +24,6 @@
     border: 2px dashed #3A4042;
     width: 100%;
 }
-
 .main-carousel .button-arrow {
     position: absolute;
     bottom: 70px;
@@ -45,5 +43,5 @@
     display: flex;
     justify-content: space-between;
     transition: transform 100ms linear;
-    margin-left: -70px;
+    
 }
